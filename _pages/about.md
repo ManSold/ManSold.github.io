@@ -91,12 +91,12 @@ I am a Lecturer at the College of Computer and Cyberspace Security, Fujian Norma
 
 ### 本科生
 
-- 林晶
-- 黄航翌
-- 陈龙坤
-- 洪凯翔
-- 李佳麒
-- 刘海林
+- 林晶 (2023级)
+- 黄航翌 (2024级)
+- 陈龙坤 (2024级)
+- 洪凯翔 (2024级)
+- 李佳麒 (2025级)
+- 刘海林 (2025级)
 
 <span class='anchor' id='prospective-students'></span>
 # 📢 招生信息 
