@@ -51,9 +51,6 @@ I am a Lecturer at the College of Computer and Cyberspace Security, Fujian Norma
 - ``TDSC 2025`` MPGStack: Membership privacy protection on graph data via model stacking, IEEE Transactions on Dependable and Secure Computing, Chenyang Chen, Xiaoyu Zhang, **Shen Lin**, Xiaofeng Chen. **(CCF-A)** <span class='show_paper_citations' data='ORwuKSYAAAAJ:eQOLeE2rZwMC'></span>
 
 
-
-
-
 ## Preprints
 
 - ``arXiv 2026`` [CATA: Continual Machine Unlearning via Conflict-Averse Task Arithmetic](https://arxiv.org/abs/2605.18610), **Shen Lin**, Junhao Dong, Rongjie Chen, Xiaoyu Zhang, Li Xu, Xiaofeng Chen.
@@ -65,8 +62,8 @@ I am a Lecturer at the College of Computer and Cyberspace Security, Fujian Norma
 
 - 博士研究生国家奖学金
 
-<span class='anchor' id='students'></span>
-# 📖 Education and Experience
+<span class='anchor' id='education'></span>
+# 📖 Education
 
 - *2025.08 - Present*, Lecturer, College of Computer and Cyberspace Security, Fujian Normal University, China.
 
