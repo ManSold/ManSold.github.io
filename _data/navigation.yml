@@ -15,8 +15,11 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
+  - title: "Academic Services"
     url: "/#-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "指导学生"
+    url: "/#-students"
+
+  - title: "招生信息"
+    url: "/#-prospective-students
