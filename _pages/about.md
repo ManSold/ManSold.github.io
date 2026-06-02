@@ -29,7 +29,7 @@ redirect_from:
 <span class='anchor' id='news'></span>
 # 🔥 亮点新闻
 
-- 招收27级网络空间安全学硕和人工智能专硕！
+- 招收27级网络空间安全学硕和人工智能专硕，欢迎感兴趣的同学发邮件咨询！
 
 <span class='anchor' id='publications'></span>
 # 📝 论文成果
