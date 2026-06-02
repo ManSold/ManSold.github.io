@@ -19,8 +19,7 @@ redirect_from:
 
 林燊，1997年生，福建福州人，讲师/硕士生导师，于2025年6月获得西安电子科技大学网络空间安全专业博士学位（导师：陈晓峰教授），2025年8月加入福建师范大学计算机与网络空间安全学院。
 
-<span class='anchor' id='directions'></span>
-# 主要研究方向：
+主要研究方向：
 - Machine unlearning
 - Model watermarking
 - AI Security and Safety Evaluation
