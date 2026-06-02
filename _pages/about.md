@@ -56,9 +56,9 @@ redirect_from:
 
 ## Preprints
 
-- ``arXiv 2026`` [CATA: Continual Machine Unlearning via Conflict-Averse Task Arithmetic](https://arxiv.org/abs/2605.18610), **Shen Lin**, Junhao Dong, Rongjie Chen, Xiaoyu Zhang, Li Xu, Xiaofeng Chen.
+- ``arXiv 2026`` **Shen Lin**, Junhao Dong, Rongjie Chen, Xiaoyu Zhang, Li Xu, Xiaofeng Chen. [CATA: Continual Machine Unlearning via Conflict-Averse Task Arithmetic](https://arxiv.org/abs/2605.18610)
 
-- ``arXiv 2026`` [ICED: Concept-level Machine Unlearning via Interpretable Concept Decomposition](https://arxiv.org/abs/2605.14309), **Shen Lin**, Jing Lin, Junhao Dong, Piotr Koniusz, Li Xu
+- ``arXiv 2026`` **Shen Lin**, Jing Lin, Junhao Dong, Piotr Koniusz, Li Xu. [ICED: Concept-level Machine Unlearning via Interpretable Concept Decomposition](https://arxiv.org/abs/2605.14309)
 
 ## 发明专利
 - 张肖瑜; 金育霖; 吴凯; 陈晨洋; **林燊**; 即插即用预训练模型后门去除系统、方法、设备及介质, CN202210216214.7
