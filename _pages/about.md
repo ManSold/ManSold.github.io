@@ -24,7 +24,11 @@ redirect_from:
 主要研究方向：
 - Machine unlearning
 - Model watermarking
-- AI Security and Safety Evaluation
+- Model Red Teaming
+- Adversarial Examples
+- Jailbreak Attacks
+- Vision Language Models
+- Multi-modal Large Language Models
 
 
 <span class='anchor' id='news'></span>
