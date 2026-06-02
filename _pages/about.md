@@ -32,7 +32,7 @@ redirect_from:
 - 招收27级网络空间安全学硕和人工智能专硕，欢迎感兴趣的同学发邮件咨询！
 
 <span class='anchor' id='publications'></span>
-# 📝 论文成果
+# 📝 主要成果
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,19 +48,24 @@ redirect_from:
 
 ## 已发表学术论文
 
-- ``CVPR 2023`` ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, **Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, Willy Susilo. **(CCF-A)** 
-- ``ACM MM 2024`` GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients, Proceedings of the 32nd ACM International Conference on Multimedia, **Shen Lin**, Xiaoyu Zhang, Willy Susilo, Xiaofeng Chen, Jun Liu. **(CCF-A)** 
-- ``TDSC 2023`` MODA: Model Ownership Deprivation Attack in Asynchronous Federated Learning, IEEE Transactions on Dependable and Secure Computing, Xiaoyu Zhang, **Shen Lin**, Chao Chen, Xiaofeng Chen. **(CCF-A)** 
-- ``ECCV 2024`` LTRL: Boosting Long-tail Recognition via Reflective Learning, European Conference on Computer Vision, Qihao Zhao, Yalun Dai, **Shen Lin**, Wei Hu, Fan Zhang, Jun Liu. **(CCF-B, Oral)**
-- ``TNSE 2025`` DeepAW: A Customized DNN Watermarking Scheme Against Unreliable Participants, IEEE Transactions on Network Science and Engineering, **Shen Lin**, Xiaoyu Zhang, Xu Ma, Xiaofeng Chen, Willy Susilo. **(Q1, IF=7.9)** 
-- ``TDSC 2025`` MPGStack: Membership privacy protection on graph data via model stacking, IEEE Transactions on Dependable and Secure Computing, Chenyang Chen, Xiaoyu Zhang, **Shen Lin**, Xiaofeng Chen. **(CCF-A)**
-
+- ``CVPR 2023`` **Shen Lin**, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, and Willy Susilo. ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**. 2023: 20147-20155. **(CCF-A)**
+- ``ACM MM 2024`` **Shen Lin**, Xiaoyu Zhang, Willy Susilo, Xiaofeng Chen, and Jun Liu. GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients. **Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM)**. 2024: 9087-9095. **(CCF-A)**
+- ``TNSE 2025`` **Shen Lin**, Xiaoyu Zhang, Xu Ma, Xiaofeng Chen, Willy Susilo. DeepAW: A Customized DNN Watermarking Scheme Against Unreliable Participants. **IEEE Transactions on Network Science and Engineering (TNSE)**, 2025, 12(4): 2758 - 2769. **(Q1, IF=7.9)** 
+- ``TDSC 2023`` Xiaoyu Zhang, **Shen Lin**, Chao Chen, and Xiaofeng Chen. MODA: Model Ownership Deprivation Attack in Asynchronous Federated Learning. **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2023, 21(4): 4220-4235. **(CCF-A)**
+- ``TDSC 2025`` Chenyang Chen, Xiaoyu Zhang, **Shen Lin**, Xiaofeng Chen. MPGStack: Membership Privacy Protection on Graph Data via Model Stacking. **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2025, 22(4): 3723-3726. **(CCF-A)**
+- ``ECCV 2024`` Qihao Zhao, Yalun Dai, **Shen Lin**, Wei Hu, Fan Zhang, Jun Liu. LTRL: Boosting Long-tail Recognition via Reflective Learning. **European Conference on Computer Vision (ECCV)**, 2024: 1-18. **(Oral, CCF-B)**
 
 ## Preprints
 
 - ``arXiv 2026`` [CATA: Continual Machine Unlearning via Conflict-Averse Task Arithmetic](https://arxiv.org/abs/2605.18610), **Shen Lin**, Junhao Dong, Rongjie Chen, Xiaoyu Zhang, Li Xu, Xiaofeng Chen.
 
 - ``arXiv 2026`` [ICED: Concept-level Machine Unlearning via Interpretable Concept Decomposition](https://arxiv.org/abs/2605.14309), **Shen Lin**, Jing Lin, Junhao Dong, Piotr Koniusz, Li Xu
+
+## 发明专利
+- 张肖瑜; 金育霖; 吴凯; 陈晨洋; **林燊**; 即插即用预训练模型后门去除系统、方法、设备及介质, 2022-10-04, 中国, CN202210216214.7
+- 许力; 李雁姿; 陈兰香; 李家印; 章静; **林燊**; 一种基于Transformer的Fiedler蛛网隐私保护噪声机制构建方法, 2025-09-29, 中国, CN202511409420.X
+- 林丽美; 陈伟鑫; 吴际轩; 黄艳泽; 陈志德; **林燊**; 方定邦; 陈小薇; 楼炜; 一种因果驱动的动态图神经网络解释生成方法, 2026-02-14, 中国, 202610216102X
+- 林丽美; 赵常宇; 陈亮; 陈志德; **林燊**; 方定邦; 陈小薇; 黄艳泽; 汪晓丁; 基于核空间映射与语义对齐的多模态大模型表征学习方法及系统, 2026-01-05, 中国, 2026100056870
 
 
 <span class='anchor' id='educations'></span>
