@@ -27,7 +27,7 @@ redirect_from:
 <a href='https://scholar.google.com/citations?user=ORwuKSYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTravaill%2FTravaill.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <span class='anchor' id='news'></span>
-# 🔥 亮点新闻
+# 🔥 新闻
 
 - 招收27级网络空间安全学硕和人工智能专硕，欢迎感兴趣的同学发邮件咨询！
 
@@ -66,6 +66,14 @@ redirect_from:
 - 许力; 李雁姿; 陈兰香; 李家印; 章静; **林燊**; 一种基于Transformer的Fiedler蛛网隐私保护噪声机制构建方法, 2025-09-29, 中国, CN202511409420.X
 - 林丽美; 陈伟鑫; 吴际轩; 黄艳泽; 陈志德; **林燊**; 方定邦; 陈小薇; 楼炜; 一种因果驱动的动态图神经网络解释生成方法, 2026-02-14, 中国, 202610216102X
 - 林丽美; 赵常宇; 陈亮; 陈志德; **林燊**; 方定邦; 陈小薇; 黄艳泽; 汪晓丁; 基于核空间映射与语义对齐的多模态大模型表征学习方法及系统, 2026-01-05, 中国, 2026100056870
+
+<span class='anchor' id='projects'></span>
+
+# 🔬 科研项目
+
+- 福建省青年科技人员育成项目：面向多模态大模型的有害知识删除技术研究，项目负责人，2026.05-2028.04
+- 福建省产业技术开发和应用计划项目：基于安全增强型人工智能模型的网络数据安全关键技术研发及示范应用，核心成员，2025.08-2027.01
+- 2025年度福州市人工智能“揭榜挂帅”科技重大项目：面向人机协同的城市基层精细化治理多模态感知与决策大模型技术研发，核心成员，2025.09-2028.09
 
 
 <span class='anchor' id='educations'></span>
