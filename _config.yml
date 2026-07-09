@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lin Shen"
+title                    : "Kaiming Wu"
 description              : "硕士生导师"
 repository               : Mansold/ManSold.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "林燊 Lin Shen"
+  name             : "吴凯明 Wu Kaiming"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "福建师范大学"
   location         : "Fuzhou, China"
